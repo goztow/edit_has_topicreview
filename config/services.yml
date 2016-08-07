@@ -1,0 +1,9 @@
+parameters:
+
+services:
+    goztow.edit_has_topicreview.base_events:
+        class: goztow\edit_has_topicreview\event\base_events
+        arguments:
+            - @template
+        tags:
+            - { name: event.listener }
