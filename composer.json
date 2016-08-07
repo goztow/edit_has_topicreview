@@ -3,7 +3,7 @@
 	"type" : "phpbb-extension",
 	"description" : "Add topic review when editing a post, at a similar way as it is added when replying or quoting.",
 	"homepage" : "http://www.userbase.be",
-	"version" : "1.0.0-dev",
+	"version" : "1.0.0",
 	"time" : "2016-08-06",
 	"license" : "GPL-2.0",
 	"authors" : [{
