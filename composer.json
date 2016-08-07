@@ -1,0 +1,38 @@
+{
+	"name" : "goztow/edit_has_topicreview",
+	"type" : "phpbb-extension",
+	"description" : "Add topic review when editing a post, at a similar way as it is added when replying or quoting.",
+	"homepage" : "http://www.userbase.be",
+	"version" : "1.0.0-dev",
+	"time" : "2016-08-06",
+	"license" : "GPL-2.0",
+	"authors" : [{
+			"name" : "Goztow",
+			"email" : "/",
+			"homepage" : "http://www.userbase.be",
+			"role" : "Lead Developer. Kudos to kasimi on phpbb.com for his help!"
+		}
+	],
+	"require" : {
+		"php" : ">=5.3.3"
+	},
+	"require-dev" : {
+		"phpbb/epv" : "dev-master"
+	},
+	"extra" : {
+		"display-name" : "Edit has topic review",
+		"soft-require" : {
+			"phpbb/phpbb" : ">=3.1.2,<3.2.*@dev"
+		}
+	},
+	"support" : {
+		"forum" : "http://www.userbase.be",
+		"issues" : "",
+		"source" : ""
+	},
+	"keywords" : [
+		"phpbb",
+		"edit",
+		"review"
+	]
+}
