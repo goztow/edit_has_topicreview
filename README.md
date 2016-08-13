@@ -1,4 +1,4 @@
-# phpBB 3.1 Extension - phpBB.de Deny double post
+# phpBB 3.1 Extension - Topic review in edit mode
 
 ## Installation
 
@@ -6,7 +6,7 @@ Clone into ext/goztow/edit_has_topicreview:
 
     git clone https://github.com/goztow/edit_has_topicreview ext/goztow/edit_has_topicreview
 
-Go to "ACP" > "Customise" > "Extensions" and enable the "Edit has topic review" extension.
+Go to "ACP" > "Customise" > "Extensions" and enable the "Topic review in edit mode" extension.
 
 ## Development
 
